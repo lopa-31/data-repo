@@ -1,0 +1,208 @@
+{
+  "personalInfo": {
+    "name": "Lokesh Patidar",
+    "titles": ["Software Engineer", "Android Developer", "Embedded Software Engineer", "Hardware Engineer"],
+    "title": "DEVELOPER • PROBLEM SOLVER",
+    "email": "lokesh.pa3102@gmail.com",
+    "github": "https://github.com/lopa-31",
+    "linkedin": "https://linkedin.com/in/lopa31",
+    "resume_url": "https://raw.githubusercontent.com/lopa-31/privacy_policy/master/resume.json",
+    "summary": "Hi, I'm a software developer with a passion for building scalable and efficient systems, and create meaningful products.",
+    "location": "Ratlam, Madhya Pradesh, India",
+    "mobile": "+91 93994 28623"
+  },
+  "experience": [
+    {
+      "company": "Centre for Development of Telematics (C-DoT)",
+      "mobile-company": "C-DoT",
+      "position": "Scientist-B (Research Engineer)",
+      "mobile-position": "Scientist-B",
+      "duration": "Aug 2024 - Feb 2025",
+      "mobile-duration": "08/24 - 02/25",
+      "responsibilities": [
+        "Working on telecom solutions for next-generation networks",
+        "Developing components for 5G core network infrastructure"
+      ],
+      "logo": "assets/cdot-logo.png",
+      "logo_color": "#0B3387"
+    },
+    {
+      "company": "Mathworks, Hyderabad",
+      "mobile-company": "Mathworks",
+      "position": "Software Engineer Intern",
+      "mobile-position": "SDE Intern",
+      "duration": "Jan 2024 - Apr 2024",
+      "mobile-duration": "01/24 - 04/24",
+      "responsibilities": [
+        "Contributed to MATLAB 5G Toolbox development",
+        "Implemented features for cell-free massive MIMO network simulation"
+      ],
+      "logo": "assets/mathworks-logo.png",
+      "logo_color": "#C42903"
+    },
+    {
+      "company": "Samsung Research Institute, Bangalore",
+      "mobile-company": "Samsung R&D",
+      "position": "Software Engineer Intern",
+      "mobile-position": "SDE Intern",
+      "duration": "May 2023 - July 2023",
+      "mobile-duration": "05/23 - 07/23",
+      "responsibilities": [
+        "Worked on Android application development using Kotlin and Jetpack Compose",
+        "Implemented UI components and backend services for mobile applications"
+      ],
+      "logo": "assets/samsung-logo.png",
+      "logo_color": "#000000"
+    }
+  ],
+  "education": {
+    "institution": "Indian Institute Of Technology, Roorkee",
+    "mobile-institution": "IIT Roorkee",
+    "degree": "B.Tech in Electronics and Communication Engineering",
+    "mobile-degree": "B.Tech in ECE",
+    "duration": "Nov 2020 - May 2024",
+    "mobile-duration": "2020 - 2024",
+    "gpa": "",
+    "logo": "assets/iitr-logo.png",
+    "logo_color": "#5287B9"
+  },
+  "skills": {
+    "categories": [
+      {"key": "languages", "name": "Languages"},
+      {"key": "frameworks", "name": "Frameworks"},
+      {"key": "tools", "name": "Tools"},
+      {"key": "hardware", "name": "Hardware"},
+      {"key": "coursework", "name": "Coursework"}
+    ],
+    "coursework": [
+      {"name": "OOPs", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721616.png"},
+      {"name": "DSA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"},
+      {"name": "Operating Systems", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/2333/2333187.png"},
+      {"name": "COA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/3213/3213689.png"},
+      {"name": "Back-End Development", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/7991/7991055.png"},
+      {"name": "Digital Logic Design", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/6295/6295417.png"},
+      {"name": "Microprocessors", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/3569/3569958.png"},
+      {"name": "Embedded Systems", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/4617/4617559.png"}
+    ],
+    "languages": [
+      {"name": "Java", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"},
+      {"name": "Kotlin", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"},
+      {"name": "Python", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"},
+      {"name": "C++", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"}
+    ],
+    "frameworks": [
+      {"name": "Android SDK", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"},
+      {"name": "Jetpack Compose", "confidence": 5, "imageUrl": "https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png"},
+      {"name": "Spring", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"},
+      {"name": "Spring Boot", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"},
+      {"name": "REST API", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/1493/1493169.png"}
+    ],
+    "tools": [
+      {"name": "Git", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"},
+      {"name": "VS Code", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"},
+      {"name": "Android Studio", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"},
+      {"name": "MATLAB", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"},
+      {"name": "Gradle", "confidence": 5, "imageUrl": "https://www.svgrepo.com/show/353831/gradle.svg"},
+      {"name": "Maven", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"},
+      {"name": "PostgreSQL", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"},
+      {"name": "Postman", "confidence": 5, "imageUrl": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"},
+      {"name": "Docker", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"},
+      {"name": "Linux", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"}
+    ],
+    "hardware": [
+      {"name": "Verilog", "confidence": 5, "imageUrl": "https://www.verilog.com/img/favi-verilog.png"},
+      {"name": "System Verilog", "confidence": 5, "imageUrl": "https://www.creativevirtual.com/wp-content/uploads/2017/02/systemverilog-design.png"},
+      {"name": "UVM", "confidence": 5, "imageUrl": "https://seeklogo.com/images/U/uvm-logo-DB4F55E214-seeklogo.com.png"},
+      {"name": "FPGA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/6911/6911893.png"},
+      {"name": "Vivado", "confidence": 5, "imageUrl": "https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-new-vivado-logo.png"},
+      {"name": "Modelsim", "confidence": 5, "imageUrl": "https://www.mentor.com/company/higher_ed/modelsim-student-edition"}
+    ],
+    "awards": [
+      "Rank 3327 in JEE-Advanced 2020",
+      "Silver Medalist in Cricket (Institute Colors Trophy 2022, IIT Roorkee)"
+    ]
+  },
+  "leadership": [
+    {
+      "organization": "Electronics And Communication Engineering Department",
+      "position": "Teaching Assistant",
+      "duration": "Apr 2023 - Dec 2023",
+      "responsibilities": [
+        "Co-ordinated 100+ students as a Teaching Assistant for the course ECE101 - Introduction to Electronics.",
+        "Assisted in the creation and grading of 10+ assignments and examination along with doubt solving of students."
+      ]
+    },
+    {
+      "organization": "National Sports Organization - Cricket",
+      "position": "Team Member, Institute Team",
+      "duration": "Jan 2022 - May 2023",
+      "responsibilities": [
+        "Organized Institute level tournaments (10+ events) - Inter IIT, Colors Trophy and Inter Bhawan Tournaments (Cricket).",
+        "Led a team of 15+ players in Institute Colors Trophy 2023 and secured Bronze Medal among 90+ players."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cell-Free Network Simulator for 5G and Beyond",
+      "role": "5G Toolbox, MATLAB",
+      "description": "A 5G complient cell-free massive MIMO network simulator developed in MATLAB using 5G toolbox. Presented at the OpenRIT 6G Workshop, IEEE GLOBECOM 2024.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Cell-Free%20Network%20Visualization%20sq-SnHxivgRrFhWX5xQvM92WQCmCEkWnw.png",
+      "date": "Aug 2023 - May 2024",
+      "links": {
+        "demo": "https://in.mathworks.com/help/5g/ug/evaluate-performance-of-cell-free-mmimo-networks.html",
+        "code": "https://github.com/abhay-sah/CFmMIMO-SimDes"
+      }
+    },
+    {
+      "title": "Competrace - Android App",
+      "role": "Kotlin, Android Studio",
+      "description": "An Android app for competitive programmers to keep track of upcoming contests and get their submissions for quick referance. Built using Jetpack Compose and Kotlin.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/competrace-playstore-banner-C4RuYbhMNGkLKKjDHpKpsPPxXLUc29.png",
+      "date": "Dec 2022 - May 2023",
+      "links": {
+        "demo": "https://play.google.com/store/apps/details?id=com.gourav.competrace",
+        "code": "https://github.com/lopa-31/cf-tracker-application"
+      }
+    },
+    {
+      "title": "SMVM for Neural Network Implementation on FPGA",
+      "role": "Python, Verilog",
+      "description": "Programmed FPGA and implemented SMVM (Sparse Matrix Vector Multiplication) for Neural Networks. Used it for MNIST dataset classification.",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202022-11-29%20094535-Ry3LMbiWMzz1SLsJock6Qtndz2cFA0.png",
+      "date": "Aug 2022 - Nov 2022",
+      "links": {
+        "code": "https://github.com/lopa-31/embedded_project",
+        "demo": ""
+      }
+    }
+  ],
+  "social": {
+    "github": "https://github.com/lopa-31",
+    "linkedin": "https://linkedin.com/in/lopa31",
+    "twitter": "",
+    "instagram": "",
+    "email": "lokesh.pa3102@gmail.com"
+  },
+  "siteConfig": {
+    "theme": {
+      "colors": {
+        "primary": "#3B82F6",
+        "secondary": "#10B981",
+        "accent": "#F59E0B",
+        "background": "#F3F4F6",
+        "text": "#111827",
+        "lightBlue": "#93C5FD",
+        "blue": "#3B82F6",
+        "navy": "#1E40AF",
+        "coral": "#F87171",
+        "mint": "#A7F3D0"
+      }
+    },
+    "metadata": {
+      "title": "Lokesh Patidar | Portfolio",
+      "description": "Personal portfolio of Lokesh Patidar, Software Engineer and Android Developer",
+      "keywords": "software engineer, android developer, portfolio, java, kotlin, python"
+    }
+  }
+}
