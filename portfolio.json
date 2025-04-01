@@ -75,14 +75,14 @@
       {"key": "coursework", "name": "Coursework"}
     ],
     "coursework": [
-      {"name": "OOPs", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721616.png"},
+      {"name": "OOPs", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/128/5815/5815526.png"},
       {"name": "DSA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"},
       {"name": "Operating Systems", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/2333/2333187.png"},
-      {"name": "COA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/3213/3213689.png"},
+      {"name": "COA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/128/1935/1935955.png"},
       {"name": "Back-End Development", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/7991/7991055.png"},
-      {"name": "Digital Logic Design", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/6295/6295417.png"},
-      {"name": "Microprocessors", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/3569/3569958.png"},
-      {"name": "Embedded Systems", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/4617/4617559.png"}
+      {"name": "Digital Logic Design", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/128/16945/16945477.png"},
+      {"name": "Microprocessors", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/128/2479/2479550.png"},
+      {"name": "Embedded Systems", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/128/4152/4152084.png"}
     ],
     "languages": [
       {"name": "Java", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"},
@@ -92,7 +92,7 @@
     ],
     "frameworks": [
       {"name": "Android SDK", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"},
-      {"name": "Jetpack Compose", "confidence": 5, "imageUrl": "https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png"},
+      {"name": "Jetpack Compose", "confidence": 5, "imageUrl": "https://developer.android.com/static/images/spot-icons/jetpack-compose.svg"},
       {"name": "Spring", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"},
       {"name": "Spring Boot", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"},
       {"name": "REST API", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/1493/1493169.png"}
@@ -110,12 +110,12 @@
       {"name": "Linux", "confidence": 5, "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"}
     ],
     "hardware": [
-      {"name": "Verilog", "confidence": 5, "imageUrl": "https://www.verilog.com/img/favi-verilog.png"},
-      {"name": "System Verilog", "confidence": 5, "imageUrl": "https://www.creativevirtual.com/wp-content/uploads/2017/02/systemverilog-design.png"},
+      {"name": "Verilog", "confidence": 5, "imageUrl": "https://www.svgrepo.com/show/374163/verilog.svg"},
+      {"name": "System Verilog", "confidence": 5, "imageUrl": "https://www.svgrepo.com/show/373793/light-systemverilog.svg"},
       {"name": "UVM", "confidence": 5, "imageUrl": "https://seeklogo.com/images/U/uvm-logo-DB4F55E214-seeklogo.com.png"},
       {"name": "FPGA", "confidence": 5, "imageUrl": "https://cdn-icons-png.flaticon.com/512/6911/6911893.png"},
       {"name": "Vivado", "confidence": 5, "imageUrl": "https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-new-vivado-logo.png"},
-      {"name": "Modelsim", "confidence": 5, "imageUrl": "https://www.mentor.com/company/higher_ed/modelsim-student-edition"}
+      {"name": "Modelsim", "confidence": 5, "imageUrl": "https://downloadly.ir/wp-content/uploads/2019/07/ModelSim.png"}
     ],
     "awards": [
       "Rank 3327 in JEE-Advanced 2020",
