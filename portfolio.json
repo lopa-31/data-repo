@@ -6,7 +6,7 @@
     "email": "lokesh.pa3102@gmail.com",
     "github": "https://github.com/lopa-31",
     "linkedin": "https://linkedin.com/in/lopa31",
-    "resume_url": "https://raw.githubusercontent.com/lopa-31/privacy_policy/master/resume.json",
+    "resume_url": "https://vo2j0ywvgutxk1j5.public.blob.vercel-storage.com/CV-Lokesh-Patidar-SDE.pdf",
     "summary": "Hi, I'm a software developer with a passion for building scalable and efficient systems, and create meaningful products.",
     "location": "Ratlam, Madhya Pradesh, India",
     "mobile": "+91 93994 28623"
@@ -23,7 +23,7 @@
         "Working on telecom solutions for next-generation networks",
         "Developing components for 5G core network infrastructure"
       ],
-      "logo": "assets/cdot-logo.png",
+      "logo": "https://vo2j0ywvgutxk1j5.public.blob.vercel-storage.com/portfolio-assets/cdot-logo.png",
       "logo_color": "#0B3387"
     },
     {
@@ -37,7 +37,7 @@
         "Contributed to MATLAB 5G Toolbox development",
         "Implemented features for cell-free massive MIMO network simulation"
       ],
-      "logo": "assets/mathworks-logo.png",
+      "logo": "https://vo2j0ywvgutxk1j5.public.blob.vercel-storage.com/portfolio-assets/mathworks-logo.png",
       "logo_color": "#C42903"
     },
     {
@@ -51,7 +51,7 @@
         "Worked on Android application development using Kotlin and Jetpack Compose",
         "Implemented UI components and backend services for mobile applications"
       ],
-      "logo": "assets/samsung-logo.png",
+      "logo": "https://vo2j0ywvgutxk1j5.public.blob.vercel-storage.com/portfolio-assets/samsung-logo.png",
       "logo_color": "#000000"
     }
   ],
@@ -63,7 +63,7 @@
     "duration": "Nov 2020 - May 2024",
     "mobile-duration": "2020 - 2024",
     "gpa": "",
-    "logo": "assets/iitr-logo.png",
+    "logo": "https://vo2j0ywvgutxk1j5.public.blob.vercel-storage.com/portfolio-assets/iitr-logo.png",
     "logo_color": "#5287B9"
   },
   "skills": {
