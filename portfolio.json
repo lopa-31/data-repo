@@ -9,7 +9,7 @@
     "resume_url": "https://vo2j0ywvgutxk1j5.public.blob.vercel-storage.com/CV-Lokesh-Patidar-SDE.pdf",
     "summary": "Hi, I'm a software developer with a passion for building scalable and efficient systems, and create meaningful products.",
     "location": "Ratlam, Madhya Pradesh, India",
-    "mobile": "+91 93994 28623"
+    "mobile": ""
   },
   "experience": [
     {
@@ -183,26 +183,5 @@
     "twitter": "",
     "instagram": "",
     "email": "lokesh.pa3102@gmail.com"
-  },
-  "siteConfig": {
-    "theme": {
-      "colors": {
-        "primary": "#3B82F6",
-        "secondary": "#10B981",
-        "accent": "#F59E0B",
-        "background": "#F3F4F6",
-        "text": "#111827",
-        "lightBlue": "#93C5FD",
-        "blue": "#3B82F6",
-        "navy": "#1E40AF",
-        "coral": "#F87171",
-        "mint": "#A7F3D0"
-      }
-    },
-    "metadata": {
-      "title": "Lokesh Patidar | Portfolio",
-      "description": "Personal portfolio of Lokesh Patidar, Software Engineer and Android Developer",
-      "keywords": "software engineer, android developer, portfolio, java, kotlin, python"
-    }
   }
 }
